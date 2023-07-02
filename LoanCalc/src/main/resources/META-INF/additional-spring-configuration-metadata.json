@@ -1,0 +1,9 @@
+{"properties": [{
+  "name": "loan.payback-plan",
+  "type": "java.lang.String",
+  "description": "A description for 'loan.payback-plan'"
+}]}{"properties": [{
+  "name": "loan.type.housing.yearly-interest-rate",
+  "type": "java.lang.String",
+  "description": "A description for 'loan.type.housing.yearly-interest-rate'"
+}]}

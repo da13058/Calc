@@ -1,0 +1,5 @@
+loan:
+    type:
+        housing:
+            yearly-interest-rate: 3.5
+    payback-plan: monthly

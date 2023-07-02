@@ -1,0 +1,3 @@
+### Loan interest rate for housing loan calculations
+#loan.type.housing.interest-rate=3.5
+#loan.payback-plan=monthly
